@@ -1,0 +1,19 @@
+.heading{
+    width: 100%;
+    text-align: left;
+
+}
+.title{
+    display: inline;
+}
+.instructions{
+background-color:blue;
+margin-bottom: 0px;
+margi
+}
+
+
+#start_button, #status{
+    font-size: 22px;
+    border: black 4px solid;
+}
